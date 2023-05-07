@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9da3d97e.css",
+    "main.js": "/static/js/main.1c58f976.js",
+    "static/js/851.ee03ea1e.chunk.js": "/static/js/851.ee03ea1e.chunk.js",
+    "static/js/562.ade4054a.chunk.js": "/static/js/562.ade4054a.chunk.js",
+    "static/js/478.15ecb33e.chunk.js": "/static/js/478.15ecb33e.chunk.js",
+    "static/js/922.950c5cf1.chunk.js": "/static/js/922.950c5cf1.chunk.js",
+    "static/js/161.79cbdf36.chunk.js": "/static/js/161.79cbdf36.chunk.js",
+    "static/js/209.04592873.chunk.js": "/static/js/209.04592873.chunk.js",
+    "static/js/625.005a5e1c.chunk.js": "/static/js/625.005a5e1c.chunk.js",
+    "static/media/resume-gul.pdf": "/static/media/resume-gul.65478d157588d9ba4b11.pdf",
+    "index.html": "/index.html",
+    "static/media/about.md": "/static/media/about.999d9f2274bee6a9f59c.md",
+    "main.9da3d97e.css.map": "/static/css/main.9da3d97e.css.map",
+    "main.1c58f976.js.map": "/static/js/main.1c58f976.js.map",
+    "851.ee03ea1e.chunk.js.map": "/static/js/851.ee03ea1e.chunk.js.map",
+    "562.ade4054a.chunk.js.map": "/static/js/562.ade4054a.chunk.js.map",
+    "478.15ecb33e.chunk.js.map": "/static/js/478.15ecb33e.chunk.js.map",
+    "922.950c5cf1.chunk.js.map": "/static/js/922.950c5cf1.chunk.js.map",
+    "161.79cbdf36.chunk.js.map": "/static/js/161.79cbdf36.chunk.js.map",
+    "209.04592873.chunk.js.map": "/static/js/209.04592873.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9da3d97e.css",
+    "static/js/main.1c58f976.js"
+  ]
+}
